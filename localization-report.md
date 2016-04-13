@@ -109,7 +109,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/.gitignore) | Ignored | [Details](#53dc443a626b71dd55acef1eb425626a2e091fc60)
- [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/.localization-config) | Ignored | [Details](#4569ed953e1daddeef1455e3f12ad8ca91f51d4b1)
+ [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/.localization-config) | Ignored | [Details](#d0381516a5c6a93a3934f042ad49706a39f3fde41)
  [localization.json](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/localization.json) | Ignored | [Details](#1c75f714b30e6a61579231eb84beb9c7df76552a2)
  [media\drawing.svg](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/media/drawing.svg) | Ignored | [Details](#79cd9853b89adbd61a5c5f4292ace595edd7daab3)
  [media\SVG-with-Hotspot.jpg](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/media/SVG-with-Hotspot.jpg) | Ignored | [Details](#3176573c49dfd02925d59556f177497ccb341ed64)
@@ -201,7 +201,7 @@
  [Tools\smsnotes.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/Tools/smsnotes.txt) | Ignored | [Details](#c3518b2cd1c1eeab8262f38b8745ae747ff37f6e90)
  [Tools\stuff.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/Tools/stuff.txt) | Ignored | [Details](#0294f9ac1c414491ceb24540a3e3be3fef0b5d4991)
  [virtualization\center.json](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/center.json) | Ignored | [Details](#d50691e91b65863f8635fbfa8cfb87cf21c0471f92)
- [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/community/community_overview.md) | Ignored | [Details](#ed968510a1e72e532a3e4df850bed9a40050619c93)
+ [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/community/community_overview.md) | Ignored | [Details](#8e5b907b0be3cf20d7d49488af7e13337ac934fe93)
  [virtualization\community\Docset.json](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/community/Docset.json) | Ignored | [Details](#d74ebe4088d2d8baae9703d34e67864dca2dc73794)
  [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/community/TOC.md) | Ignored | [Details](#d95757903564f8beea62ad4d2977764d431eeeb895)
  [virtualization\ContainerNodeTitles.csv](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/ContainerNodeTitles.csv) | Ignored | [Details](#c733d78267d27b61d745b22da96352bf5cc37ffe96)
@@ -254,7 +254,7 @@
  [virtualization\windowscontainers\about\media\overheadSpectrum.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/about/media/overheadSpectrum.png) | Ignored | [Details](#8666862f14deb4e0523570cc3a3194fdfe115c3a218)
  [virtualization\windowscontainers\about\media\WindowsServerContainer.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/about/media/WindowsServerContainer.png) | Ignored | [Details](#1bf883f69ce268f31b33e5fe2228655c206d7479219)
  [virtualization\windowscontainers\about\work_in_progress.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/about/work_in_progress.md) | Ignored | [Details](#090e2dccc937df4c7a80f63b447cb733af5020a3220)
- [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/containers_welcome.md) | Ignored | [Details](#aa0f803f7afebd865daf559531ae19c72a5fea16221)
+ [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/containers_welcome.md) | Ignored | [Details](#234291c4b51a6fd2eeb358df3da281b2323e0686221)
  [virtualization\windowscontainers\Docset.json](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/Docset.json) | Ignored | [Details](#19aa6dac84bd1491c201995c0700b38c789b837c222)
  [virtualization\windowscontainers\Media\1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/Media/1.png) | Ignored | [Details](#215adae041390b1edb10b314dc7ce21f6b39592e224)
  [virtualization\windowscontainers\Media\explore.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/Media/explore.png) | Ignored | [Details](#367d56d6ba500771f4a03e2296eca6bb079d891e225)
@@ -318,7 +318,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4569ed953e1daddeef1455e3f12ad8ca91f51d4b1'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/.localization-config)
+##### <a name='d0381516a5c6a93a3934f042ad49706a39f3fde41'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1422,7 +1422,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ed968510a1e72e532a3e4df850bed9a40050619c93'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/community/community_overview.md)
+##### <a name='8e5b907b0be3cf20d7d49488af7e13337ac934fe93'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/community/community_overview.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3008,7 +3008,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='aa0f803f7afebd865daf559531ae19c72a5fea16221'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/containers_welcome.md)
+##### <a name='234291c4b51a6fd2eeb358df3da281b2323e0686221'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bee7d9b1eaff01555330d7062343fbd569f17250/virtualization/windowscontainers/containers_welcome.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
