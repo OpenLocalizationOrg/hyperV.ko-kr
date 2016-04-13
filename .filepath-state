@@ -1,130 +1,155 @@
 {
-  "cbbce5951ccdf4ff1a3a5b98adf62f364c5c9aed": [
-    "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md"
+  "6a035e91348d8a2e558f5d392ae2e980475739a8": [
+    "Acom\\articles\\architecture-overview.md"
   ],
-  "7c81ad16e094e7991716b59d4b80a8409ea7ef80": [
-    "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
+  "eb5048319e03357015f249815803227960442dfc": [
+    "Acom\\articles\\backup\\backup-azure-alternate-dpm-server.md"
   ],
-  "18ddc4fbc1c483e781564019ade6261d7e099552": [
-    "virtualization\\hyperv_on_windows\\about\\whats_new.md"
+  "c58e3b8b26cd13e273be2fbb37ce03a31c09a06a": [
+    "Acom\\articles\\backup\\backup-azure-backup-cloud-as-tape.md"
   ],
-  "175fe300a03c01dfc6e8e1d2cf000e8612a7bec4": [
-    "virtualization\\hyperv_on_windows\\develop\\make_mgmt_servic.md"
+  "502bf3fb986f2490751127290df34eef504bd0b6": [
+    "Acom\\articles\\backup\\backup-azure-backup-exchange-server.md"
   ],
-  "2fe214e2a741bb53de8e5d3ff3d2129f195a3208": [
-    "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
+  "0b5d9283448ec67f7eae5e19ca1c295b27ff23c6": [
+    "Acom\\articles\\backup\\backup-azure-backup-faq.md"
   ],
-  "a26fcbf2016944cace1f75451c1ad50d55313943": [
-    "virtualization\\hyperv_on_windows\\ECULA.md",
-    "virtualization\\windowscontainers\\EULA.md"
+  "560c4cea9b6163ed27afbf5d0f0b43caa2c5879f": [
+    "Acom\\articles\\backup\\backup-azure-backup-ibiza-faq.md"
   ],
-  "7031d01ba57e1cf5a73f938b6a341f929fee8b1d": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md"
+  "592449639db4578672242e06f74390ac9486ff21": [
+    "Acom\\articles\\backup\\backup-azure-backup-import-export.md"
   ],
-  "2c002b52f06d990a5f2dcad7d189fa870a6f55ff": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
+  "f1cee09f21c1896cadbf1aa2107a193571d6adcf": [
+    "Acom\\articles\\backup\\backup-azure-backup-sharepoint.md"
   ],
-  "0291267af91e0eb2f2bcc068176fe822a7727df3": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
+  "9091e4e4efcd7dc87462478f450cf057eddb01e9": [
+    "Acom\\articles\\backup\\backup-azure-backup-sql.md"
   ],
-  "0a6bedc4986f18fe70975dab130b535537b1fc01": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
+  "b1058dce8d50a8568f4eb68666fde4f65b163b81": [
+    "Acom\\articles\\backup\\backup-azure-backup-windows-server.md"
   ],
-  "f1d4a5b13433e56c846ff8029a17813ff8d4477b": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
+  "203eaa7eba90ca4b295f43bb9f0a11bb7dc9a81d": [
+    "Acom\\articles\\backup\\backup-azure-dpm-introduction.md"
   ],
-  "ac40b986711bfbb497347d664480dffc56630be3": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md"
+  "99e5334da955686a659c0f5a83fd69bdb6560494": [
+    "Acom\\articles\\backup\\backup-azure-manage-vms.md"
   ],
-  "d5ff93f76a16632d5909862b698bee3b388b3e9d": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
+  "08a0fc88839eff82939a1272c4f30fe94dd78edd": [
+    "Acom\\articles\\backup\\backup-azure-manage-windows-server.md"
   ],
-  "12593a84a3881dd6f3e343af2777976f1505c9fc": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
+  "0775705f114767682c64aff6a4591c61989c27b5": [
+    "Acom\\articles\\backup\\backup-azure-microsoft-azure-backup.md"
   ],
-  "03fe1e66908d536b310a1e4e8da4d58551243ede": [
-    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
+  "6a00ccf75c50ec7d706469aa4542a902c6559007": [
+    "Acom\\articles\\backup\\backup-azure-restore-vms.md"
   ],
-  "5c97e1d0b903b373d619d36dba1bf0a6d53d76d5": [
-    "virtualization\\hyperv_on_windows\\TOC.md"
+  "ddf68982a0e6088cd792660f0ad5464d08b8cbb2": [
+    "Acom\\articles\\backup\\backup-azure-restore-windows-server.md"
   ],
-  "15ca83a671c5bc684c7d4c7634b537c068af3643": [
-    "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
+  "da0cecdfb2d7f18a5f58ce58586b7711f401236c": [
+    "Acom\\articles\\backup\\backup-azure-storage-redundancy-options.md"
   ],
-  "5e973d501f7a3e3598bc3f8b966d79cc5e79b1b9": [
-    "virtualization\\hyperv_on_windows\\user_guide\\export_import.md"
+  "efc0ab286d726e0ccbb29db8e5b3b6f8a9752ed3": [
+    "Acom\\articles\\backup\\backup-azure-vms.md"
   ],
-  "b481c00b278cb366330919c9dd0b76cb7f61d425": [
-    "virtualization\\hyperv_on_windows\\user_guide\\migrating_vms.md"
+  "782553d0e9b67909b86c3d2978df3bbc1001982a": [
+    "Acom\\articles\\backup\\backup-azure-vms-automation.md"
   ],
-  "fc9e1361210658701cbe2d2a6fbc05ef6b448eab": [
-    "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
+  "fe33773d9f330e50b9f2cd696b3aa3a215dfb136": [
+    "Acom\\articles\\backup\\backup-azure-vms-encryption.md"
   ],
-  "033950f25a30f7bccb308c22d6fa96b166d7ed01": [
-    "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md"
+  "debfc662c5c58f444090b8a1d4f71e194962e133": [
+    "Acom\\articles\\backup\\backup-azure-vms-first-look.md"
   ],
-  "aa52aec3f340382372099f311751e7efe7284749": [
-    "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md"
+  "35e3445e8283a26541d3d4957b089985b5e1cbfc": [
+    "Acom\\articles\\backup\\backup-azure-vms-first-look-arm.md"
   ],
-  "8038edc8eac0a017e688401c61e5a78787f26bd6": [
-    "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
+  "2cbdcd65d357d03421c70043c512fb610c1f70fb": [
+    "Acom\\articles\\backup\\backup-azure-vms-introduction.md"
   ],
-  "25a794bd56d974bf454b9b3a84f73a81b18bded1": [
-    "virtualization\\hyperv_on_windows\\windows_welcome1.md"
+  "25ac8b9afb95175fd10d2c168ca0ffde970fc0f1": [
+    "Acom\\articles\\backup\\backup-azure-vms-prepare.md"
   ],
-  "00a716125fd77ede83e6d09813bd30f6228c5b55": [
-    "README.md"
+  "fda5c2197e8d223e37dddfb47fea1c52b17ad44e": [
+    "Acom\\articles\\backup\\backup-azure-vms-troubleshoot.md"
   ],
-  "8e5b907b0be3cf20d7d49488af7e13337ac934fe": [
-    "virtualization\\community\\community_overview.md"
+  "e8b0790273226b5aef2ffd8247ddd3754967300f": [
+    "Acom\\articles\\backup\\backup-client-automation.md"
   ],
-  "d95757903564f8beea62ad4d2977764d431eeeb8": [
-    "virtualization\\community\\TOC.md"
+  "f13afd6f6c94fe8577c2e58e1227fa2b0db0c699": [
+    "Acom\\articles\\backup\\backup-configure-vault.md"
   ],
-  "c7ff2602aef25add233f1e67bc0e020244895c48": [
-    "virtualization\\windowscontainers\\about\\about_overview.md"
+  "a7bfb7552664d1bd93f02944a2846cc568b39514": [
+    "Acom\\articles\\backup\\backup-dpm-automation.md"
   ],
-  "6c0ebd80ac08763eafebe935b08194a526ad59fa": [
-    "virtualization\\windowscontainers\\about\\container_ecosystem.md"
+  "8097538ebc8f5a550ec749f2becfa9307662227f": [
+    "Acom\\articles\\backup\\backup-introduction-to-azure-backup.md"
   ],
-  "f176f83a5f5bc76e32b5687866d2ced7d0a91d57": [
-    "virtualization\\windowscontainers\\about\\faq.md"
+  "dbd0aafa45295a1126493c9c582bdb6805f86886": [
+    "Acom\\articles\\backup\\backup-try-azure-backup-in-10-mins.md"
   ],
-  "090e2dccc937df4c7a80f63b447cb733af5020a3": [
-    "virtualization\\windowscontainers\\about\\work_in_progress.md"
+  "4d822800e9ea3d3a1a2761246e86c04691c68e9d": [
+    "Acom\\articles\\batch\\batch-account-create-portal.md"
   ],
-  "234291c4b51a6fd2eeb358df3da281b2323e0686": [
-    "virtualization\\windowscontainers\\containers_welcome.md"
+  "8f1c9fd9ce857488c7f63ca93010a9dc79e89f64": [
+    "Acom\\articles\\batch\\batch-api-basics.md"
   ],
-  "deea6a30461322b6de7138425b7c24f131bca51b": [
-    "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
+  "e58a6ee5ebfe03fac3fc4dd40d5f1659370ccf5d": [
+    "Acom\\articles\\batch\\batch-application-packages.md"
   ],
-  "bca267ee574504e3cb6d2c42f2aa095a3ace3619": [
-    "virtualization\\windowscontainers\\quick_start\\container_setup.md"
+  "8e00e2aff7b46c9ef21162ebab5cb3d538498eab": [
+    "Acom\\articles\\batch\\batch-automatic-scaling.md"
   ],
-  "8ff71abc14066d1fcaf3324d44c3e6be492a93cc": [
-    "virtualization\\windowscontainers\\quick_start\\inplace_setup.md"
+  "8d2f63b09170266c96a385f297c11abc420d76f4": [
+    "Acom\\articles\\batch\\batch-dotnet-get-started.md"
   ],
-  "f33e1b71d387e12b9baf442cdbf79912961da149": [
-    "virtualization\\windowscontainers\\quick_start\\manage_docker.md"
+  "e1df113c233d787c9f705656e159ebd9aaef8d23": [
+    "Acom\\articles\\batch\\batch-efficient-list-queries.md"
   ],
-  "8072344dba9d8f7a1a59b8444801054d3c59095f": [
-    "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
+  "204322288d283f4a126da2e1fb08fdb690eac77b": [
+    "Acom\\articles\\batch\\batch-hpc-solutions.md"
   ],
-  "70c133bd362c877067a632568f3f3c495c1212ee": [
-    "virtualization\\windowscontainers\\quick_start\\quickstart.md"
+  "87f830cfcb09761dcd739e8d61cd80fa75d13b84": [
+    "Acom\\articles\\batch\\batch-job-prep-release.md"
   ],
-  "72f87d2e53fca40a971aaf3a64bed0cc84d3de03": [
-    "virtualization\\windowscontainers\\reference\\app_compat.md"
+  "8e8a1195d23a5a318f06bff01290bd7ef13fc802": [
+    "Acom\\articles\\batch\\batch-management-dotnet.md"
   ],
-  "041b88830b633f85459d3b5be24b0d68ba8071bd": [
-    "virtualization\\windowscontainers\\reference\\powershell_overview.md"
+  "de7ec95c673a28c32c9c30c0474affeafb96e36c": [
+    "Acom\\articles\\batch\\batch-mpi.md"
   ],
-  "a9225b180b1df05d803b0ba2f23be237d7176f4d": [
-    "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md"
+  "4c2bf31b377ac4a260f138afa33fda76a408cb80": [
+    "Acom\\articles\\batch\\batch-parallel-node-tasks.md"
   ],
-  "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
-    "virtualization\\windowscontainers\\TOC.md"
+  "028eebd51820b5f8ccdb06ae2d9cfcad40655db6": [
+    "Acom\\articles\\batch\\batch-powershell-cmdlets-get-started.md"
+  ],
+  "7d65f8be949abe9a1b1b51fb31d81ead9f730fe5": [
+    "Acom\\articles\\batch\\batch-quota-limit.md"
+  ],
+  "679580df2b8a4e9e8ca618337fe31d52e9b79c86": [
+    "Acom\\articles\\batch\\batch-technical-overview.md"
+  ],
+  "d76e075fb4020d1dd50a8a30261df6f89b6f0e2f": [
+    "Acom\\articles\\batch\\big-compute-resources.md"
+  ],
+  "c458b5352591df29d088dc8127ef6e943c42adfb": [
+    "Acom\\articles\\cloud-services-python-ptvs.md"
+  ],
+  "41983cc6e2722dbe0366de4197d90dfe42b3df15": [
+    "Acom\\includes\\backup-create-vault.md"
+  ],
+  "2574255e2e33abbe9c4219db1984c07c3cd95257": [
+    "Acom\\includes\\backup-create-vault-for-vms.md"
+  ],
+  "c4c330566336ba94b4678ca7dbc15fcc52b584ca": [
+    "Acom\\includes\\backup-create-vault-wgif.md"
+  ],
+  "a968aaab015b550f8b615aa35ef56eb759eec1a3": [
+    "Acom\\includes\\backup-download-credentials.md"
+  ],
+  "d06872075ac9ad220ef31c444dc2256153005290": [
+    "Acom\\includes\\backup-install-agent.md"
   ]
 }
