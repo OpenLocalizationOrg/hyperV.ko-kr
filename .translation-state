@@ -2815,9 +2815,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\architecture-overview.510d424469b6209b5f9e9c352102b869e4eb1a9c.ko-kr.xlf",
+      "ArchiveFileCommit": "19656b6127017ea424f9eaef8989e2112f14f30c",
+      "ArchiveFileDateTime": "2016-04-15T05:14:21.1374651Z",
       "ArchiveException": null
     },
     "eb5048319e03357015f249815803227960442dfc": {
@@ -2844,9 +2844,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.ko-kr.xlf",
+      "ArchiveFileCommit": "19656b6127017ea424f9eaef8989e2112f14f30c",
+      "ArchiveFileDateTime": "2016-04-15T05:14:21.1374651Z",
       "ArchiveException": null
     },
     "c58e3b8b26cd13e273be2fbb37ce03a31c09a06a": {
@@ -2873,9 +2873,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-azure-backup-cloud-as-tape.863f64b956fc7ada5c5954a4395ee7b8769f2c8e.ko-kr.xlf",
+      "ArchiveFileCommit": "19656b6127017ea424f9eaef8989e2112f14f30c",
+      "ArchiveFileDateTime": "2016-04-15T05:14:21.1374651Z",
       "ArchiveException": null
     },
     "502bf3fb986f2490751127290df34eef504bd0b6": {
@@ -2902,9 +2902,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-azure-backup-exchange-server.08d5b373e807c145886bf8eccc0f0088c08ca638.ko-kr.xlf",
+      "ArchiveFileCommit": "19656b6127017ea424f9eaef8989e2112f14f30c",
+      "ArchiveFileDateTime": "2016-04-15T05:14:21.1374651Z",
       "ArchiveException": null
     },
     "0b5d9283448ec67f7eae5e19ca1c295b27ff23c6": {
@@ -2931,9 +2931,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_hi\\archive\\backup-azure-backup-faq.c29a5a87ddc2cf999c94697b8dcdb8d0ee1c29cc.ko-kr.xlf",
+      "ArchiveFileCommit": "19656b6127017ea424f9eaef8989e2112f14f30c",
+      "ArchiveFileDateTime": "2016-04-15T05:14:21.1374651Z",
       "ArchiveException": null
     },
     "560c4cea9b6163ed27afbf5d0f0b43caa2c5879f": {
@@ -2960,9 +2960,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_hi\\archive\\backup-azure-backup-ibiza-faq.4d57f916a89dceb35d677122fb6c5f71a592b0c5.ko-kr.xlf",
+      "ArchiveFileCommit": "19656b6127017ea424f9eaef8989e2112f14f30c",
+      "ArchiveFileDateTime": "2016-04-15T05:14:21.1374651Z",
       "ArchiveException": null
     },
     "592449639db4578672242e06f74390ac9486ff21": {
@@ -2989,9 +2989,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-azure-backup-import-export.8bef4bd450d2f924e000c767c2435558d59bb903.ko-kr.xlf",
+      "ArchiveFileCommit": "19656b6127017ea424f9eaef8989e2112f14f30c",
+      "ArchiveFileDateTime": "2016-04-15T05:14:21.1374651Z",
       "ArchiveException": null
     },
     "f1cee09f21c1896cadbf1aa2107a193571d6adcf": {
@@ -3018,9 +3018,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-azure-backup-sharepoint.776965a4d1da606427ea69fb7c9ef46c774cfb2f.ko-kr.xlf",
+      "ArchiveFileCommit": "19656b6127017ea424f9eaef8989e2112f14f30c",
+      "ArchiveFileDateTime": "2016-04-15T05:14:21.1374651Z",
       "ArchiveException": null
     },
     "9091e4e4efcd7dc87462478f450cf057eddb01e9": {
