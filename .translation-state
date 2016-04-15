@@ -26,9 +26,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\hyperv_on_windows_new.843266a46ea6fc806eee76f3d077a552855f8891.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0": {
@@ -86,9 +86,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "18ddc4fbc1c483e781564019ade6261d7e099552": {
@@ -115,9 +115,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "175fe300a03c01dfc6e8e1d2cf000e8612a7bec4": {
@@ -144,9 +144,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\make_mgmt_servic.25af83c569730c64c3b882e5575342123f74c879.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "2fe214e2a741bb53de8e5d3ff3d2129f195a3208": {
@@ -173,9 +173,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\powershell_snippets.21e7d9aff80df6f1c56918c2c3e1149d3e880e9a.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "a26fcbf2016944cace1f75451c1ad50d55313943": {
@@ -203,9 +203,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\ECULA.4d1456885d13a40c520283aab778ac6edee1935f.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "90b18083c5e836b383786e364b91c37fde16adff": {
@@ -1646,9 +1646,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough.479a697a5c0e6d13e1bbfafdcd36fe03e025a38d.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "2c002b52f06d990a5f2dcad7d189fa870a6f55ff": {
@@ -1676,9 +1676,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "0291267af91e0eb2f2bcc068176fe822a7727df3": {
@@ -1705,9 +1705,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "0a6bedc4986f18fe70975dab130b535537b1fc01": {
@@ -1734,9 +1734,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "f1d4a5b13433e56c846ff8029a17813ff8d4477b": {
@@ -1763,9 +1763,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough_export_import.357da837e16b81b7e63ec02325c79b3b0eb2e511.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "ac40b986711bfbb497347d664480dffc56630be3": {
@@ -1792,9 +1792,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "d5ff93f76a16632d5909862b698bee3b388b3e9d": {
@@ -1821,9 +1821,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "12593a84a3881dd6f3e343af2777976f1505c9fc": {
@@ -1850,9 +1850,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough_virtual_switch.27dde78ebf41bbbdb946f00af1eb221b79cbb05a.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "03fe1e66908d536b310a1e4e8da4d58551243ede": {
@@ -1879,9 +1879,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\walkthrough_vmconnect.4c24d05a20fdddbc9d4d3c09f3b483c6fb9fc9e9.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "5c97e1d0b903b373d619d36dba1bf0a6d53d76d5": {
@@ -1908,9 +1908,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "15ca83a671c5bc684c7d4c7634b537c068af3643": {
@@ -1937,9 +1937,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "5e973d501f7a3e3598bc3f8b966d79cc5e79b1b9": {
@@ -1966,9 +1966,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\export_import.c0c14674ac282e57d9bff1c585b3081c9fcc2b14.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "5f21c845594a8663b7458e86c121563d3b199e4d": {
@@ -2119,9 +2119,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "fc9e1361210658701cbe2d2a6fbc05ef6b448eab": {
@@ -2148,9 +2148,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "033950f25a30f7bccb308c22d6fa96b166d7ed01": {
@@ -2177,9 +2177,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\troubleshooting.551250f086d151b3edaaeda1dd07411092c8b348.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "aa52aec3f340382372099f311751e7efe7284749": {
@@ -2206,9 +2206,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "8038edc8eac0a017e688401c61e5a78787f26bd6": {
@@ -2235,9 +2235,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "25a794bd56d974bf454b9b3a84f73a81b18bded1": {
@@ -2264,9 +2264,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "00a716125fd77ede83e6d09813bd30f6228c5b55": {
@@ -2293,9 +2293,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "8e5b907b0be3cf20d7d49488af7e13337ac934fe": {
@@ -2322,9 +2322,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "d95757903564f8beea62ad4d2977764d431eeeb8": {
@@ -2351,9 +2351,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "c7ff2602aef25add233f1e67bc0e020244895c48": {
@@ -2380,9 +2380,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "6c0ebd80ac08763eafebe935b08194a526ad59fa": {
@@ -2409,9 +2409,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\container_ecosystem.20bda9dd63d8896f8bdb5b77d8a94217b9f975d1.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "f176f83a5f5bc76e32b5687866d2ced7d0a91d57": {
@@ -2438,9 +2438,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\faq.9230ef72e03dd569ad85af3ef02d21277aad0e46.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "090e2dccc937df4c7a80f63b447cb733af5020a3": {
@@ -2467,9 +2467,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\work_in_progress.4d0e298514e64fd94d18eb197e270fbbf7e07fd8.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "234291c4b51a6fd2eeb358df3da281b2323e0686": {
@@ -2496,9 +2496,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "deea6a30461322b6de7138425b7c24f131bca51b": {
@@ -2525,9 +2525,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "bca267ee574504e3cb6d2c42f2aa095a3ace3619": {
@@ -2554,9 +2554,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\container_setup.08ea6a3e6a859d063eb84a0b25eb20db0b7bdd52.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "8ff71abc14066d1fcaf3324d44c3e6be492a93cc": {
@@ -2583,9 +2583,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\inplace_setup.e4aa715ee9e809ad5bdf64eb7862fe63ef473bf2.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "f33e1b71d387e12b9baf442cdbf79912961da149": {
@@ -2612,9 +2612,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\manage_docker.d8787c7831358fa02dcde847d887fa29a1767ee5.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "8072344dba9d8f7a1a59b8444801054d3c59095f": {
@@ -2641,9 +2641,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "70c133bd362c877067a632568f3f3c495c1212ee": {
@@ -2670,9 +2670,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "72f87d2e53fca40a971aaf3a64bed0cc84d3de03": {
@@ -2699,9 +2699,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "041b88830b633f85459d3b5be24b0d68ba8071bd": {
@@ -2728,9 +2728,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\powershell_overview.7ebafcad4de4a5898fad700336a72f88d4aa8cb0.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "a9225b180b1df05d803b0ba2f23be237d7176f4d": {
@@ -2757,9 +2757,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "c9a613b41195c01471a39d59e0fccdb2e226b08a": {
@@ -2786,9 +2786,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\TOC.13173dbdc376543cb6eb74ef16484f39c0ef0fdb.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "6a035e91348d8a2e558f5d392ae2e980475739a8": {
@@ -4124,9 +4124,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_hi\\archive\\cloud-services-python-ptvs.b2245db6f217fce1ff6a00cf408d99fea0b774d5.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "41983cc6e2722dbe0366de4197d90dfe42b3df15": {
@@ -4155,9 +4155,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-create-vault.edf2b674739e25e6310e9e4e241f225e0453dfe4.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "2574255e2e33abbe9c4219db1984c07c3cd95257": {
@@ -4184,9 +4184,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-create-vault-for-vms.5e80645fe95ea058dc0bc87b577ec5bb3465afbd.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "c4c330566336ba94b4678ca7dbc15fcc52b584ca": {
@@ -4213,9 +4213,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-create-vault-wgif.2a73b797845c393ae6a5c3f905a0c1dd4ebf9181.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "a968aaab015b550f8b615aa35ef56eb759eec1a3": {
@@ -4244,9 +4244,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-download-credentials.4b493b2d9323ca43bdae9a5efc6a310bddcd4197.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "d06872075ac9ad220ef31c444dc2256153005290": {
@@ -4275,9 +4275,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_nonhi\\archive\\backup-install-agent.b10c65fb2d1fc9e69d93203b0546fed307f064e8.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "527b6cd19f5b402286dea94e5aa3070b784bfc92": {
@@ -14186,9 +14186,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.ko-kr\\master\\acomdc_hi\\archive\\guidance-compute-3-tier-vm.c371dd18feb40e89b619f5de1b18bde9ba03fdf1.ko-kr.xlf",
+      "ArchiveFileCommit": "ba4bc17835ee446a58143ae60ee9672dfcf1b682",
+      "ArchiveFileDateTime": "2016-04-15T05:53:02.7894532Z",
       "ArchiveException": null
     },
     "c9a494e674df0bb18fac843b62ad3a8672b95fe1": {
