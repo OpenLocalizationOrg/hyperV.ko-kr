@@ -14,6 +14,9 @@
   "0b5d9283448ec67f7eae5e19ca1c295b27ff23c6": [
     "Acom\\articles\\backup\\backup-azure-backup-faq.md"
   ],
+  "78995db9e20fe5c69923ae726dde64d20ec78963": [
+    "Acom\\articles\\backup\\backup-azure-backup-ibiza-faq.md"
+  ],
   "560c4cea9b6163ed27afbf5d0f0b43caa2c5879f": [
     "Acom\\articles\\backup\\backup-azure-backup-ibiza-faq.md"
   ],
@@ -765,9 +768,6 @@
   "63dcd0351212fbaa1cb47059af16ab4888284196": [
     "Acom\\articles\\backup\\media\\backup-azure-vms\\vault-quick-start.png"
   ],
-  "4feecbb58e1aa2134a1f33ddc06fb1513c5aa205": [
-    "Acom\\articles\\backup\\media\\backup-azure-vms-automation\\object-hierarchy.png"
-  ],
   "3d1dde05a3cfecb1725c02f3d9c8206be69701e4": [
     "Acom\\articles\\backup\\media\\backup-azure-vms-encryption\\how-it-works.png"
   ],
@@ -941,14 +941,8 @@
   "28a813f7786aab8445adf07e2a6fb9a3fa67a953": [
     "Acom\\articles\\backup\\media\\backup-configure-vault\\specify-backup-schedule-close.png"
   ],
-  "ad34394771dda78cacbfd59c02bba83c712a1f5f": [
-    "Acom\\articles\\backup\\media\\backup-introduction-to-azure-backup\\azure-backup-overview.png"
-  ],
   "ff2e8af5cfbaefe75773e986aae85e6a13546cd5": [
     "Acom\\articles\\backup\\media\\backup-introduction-to-azure-backup\\green.png"
-  ],
-  "38a044be5f14d162cea6d9cd65045ec974267bb8": [
-    "Acom\\articles\\backup\\media\\backup-introduction-to-azure-backup\\table-key.png"
   ],
   "4d516925d461e2dbbfc87c3523a02813892641d4": [
     "Acom\\articles\\backup\\media\\backup-introduction-to-azure-backup\\table-key-2.png"
@@ -1126,39 +1120,6 @@
   ],
   "231d4a855a76dc7f68ef4d98c1ef953c0cf85f18": [
     "Acom\\articles\\guidance\\guidance-compute-3-tier-vm.md"
-  ],
-  "c9a494e674df0bb18fac843b62ad3a8672b95fe1": [
-    "Acom\\articles\\guidance\\media\\blueprints\\compute-3-tier-vm.png"
-  ],
-  "22cff00e0029a1517caddae6f22de83c0b1af9c5": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\add-new-or-existing-role.png"
-  ],
-  "58d374622eef974c81985a143b308e8d7daa16f1": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\new-project-cloud-service.png"
-  ],
-  "b23aa5a2a7b9a03d82aae9d36d5f8d6d736a092a": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\new-service-wizard.png"
-  ],
-  "3ed36e747976528bb9f8abefacf8adf1345cc418": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\publish-activity-log.png"
-  ],
-  "275ad5818026e93086c80d7f70ee874b89a034e6": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\publish-create-cloud-service.png"
-  ],
-  "b51daf1c53d135d1d66d66337b25becce291ebc0": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\publish-remote-desktop-configuration.png"
-  ],
-  "cc08d33cb72e187f0bedaa0b9872778bfce9929f": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\publish-settings.png"
-  ],
-  "4704df9a566395c2415f6dded2ed13ebf0ce8a89": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\publish-sign-in.png"
-  ],
-  "da28a92d0c723ee5760eb77dedf46e4c599e5d11": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\startup.png"
-  ],
-  "691f1cbe0268d91d7f647cca0d80ce513bc67015": [
-    "Acom\\articles\\media\\cloud-services-python-ptvs\\worker.png"
   ],
   "146d719e66cb507575325925a6a0b00a3373d819": [
     "Acom\\includes\\media\\backup-create-vault\\backupvaultstatus1.png"
