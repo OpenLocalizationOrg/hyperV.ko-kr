@@ -1159,5 +1159,14 @@
   ],
   "d347565919a93f869f400c8b59843249dd1f234d": [
     "Acom\\includes\\media\\backup-install-agent\\vc.png"
+  ],
+  "ee150b2b30cdfd43884520fcc97e2547a02982a0": [
+    "Acom\\articles\\azure-portal\\insights-auditlog-to-webhook-email.md"
+  ],
+  "1de17e02db5f704204f70ab814efdd8eb443d7f4": [
+    "Acom\\articles\\azure-portal\\insights-autoscale-best-practices.md"
+  ],
+  "98e625f1fb0ad2965ca2ca42ae2fdb374cae121f": [
+    "Acom\\articles\\azure-portal\\insights-cli-samples.md"
   ]
 }
